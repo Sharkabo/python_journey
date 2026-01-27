@@ -1,6 +1,6 @@
 # Complete your task here (refer to task.md)
 
-# 1. [Goal 1 Description]
+# Goal 1: Ask for temperature input
 
 
-# 2. [Goal 2 Description]
+# Goal 2: Check temperature and print advice

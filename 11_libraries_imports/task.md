@@ -17,5 +17,5 @@ Import `datetime` and print the current year.
 **Expected Output (Example):**
 ```text
 The magic number is: 42
-Current year: 2025
+Current year: 2026
 ```

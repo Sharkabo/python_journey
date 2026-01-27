@@ -1,6 +1,12 @@
 # Complete your task here (refer to task.md)
 
-# 1. [Goal 1 Description]
+# Goal 1: Import random library
 
 
-# 2. [Goal 2 Description]
+# Goal 2: Generate random number
+
+
+# Goal 3: Print magic number
+
+
+# Goal 4 (Bonus): Import datetime and print year

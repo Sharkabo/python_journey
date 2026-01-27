@@ -1,6 +1,12 @@
 # Complete your task here (refer to task.md)
 
-# 1. [Goal 1 Description]
+# Goal 1: Create energy variable
 
 
-# 2. [Goal 2 Description]
+# Goal 2: Create while loop
+
+
+# Goal 3: Print energy and decrease
+
+
+# Goal 4: Print Game Over

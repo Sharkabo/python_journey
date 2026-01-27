@@ -1,6 +1,9 @@
 # Complete your task here (refer to task.md)
 
-# 1. [Goal 1 Description]
+# Goal 1: Create book dictionary
 
 
-# 2. [Goal 2 Description]
+# Goal 2: Print sentence using values
+
+
+# Goal 3: Update year and check
