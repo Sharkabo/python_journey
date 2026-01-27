@@ -1,6 +1,9 @@
 # Complete your task here (refer to task.md)
 
-# 1. [Goal 1 Description]
+# Goal 1: Create list of numbers
 
 
-# 2. [Goal 2 Description]
+# Goal 2: Loop through numbers
+
+
+# Goal 3: Add 5 and print

@@ -1,6 +1,9 @@
 # Complete your task here (refer to task.md)
 
-# 1. [Goal 1 Description]
+# Goal 1: Try block with input and doubling
 
 
-# 2. [Goal 2 Description]
+# Goal 2: Except block for ValueError
+
+
+# Goal 3: Print error message

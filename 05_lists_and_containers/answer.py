@@ -1,6 +1,12 @@
 # Complete your task here (refer to task.md)
 
-# 1. [Goal 1 Description]
+# Goal 1: Create todo_list with initial items
 
 
-# 2. [Goal 2 Description]
+# Goal 2: Ask user for new task
+
+
+# Goal 3: Add new task to list
+
+
+# Goal 4: Print first and last task

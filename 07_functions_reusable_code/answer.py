@@ -1,6 +1,9 @@
 # Complete your task here (refer to task.md)
 
-# 1. [Goal 1 Description]
+# Goal 1: Define function check_password
 
 
-# 2. [Goal 2 Description]
+# Goal 2: Add logic inside function
+
+
+# Goal 3: Call function twice to test
