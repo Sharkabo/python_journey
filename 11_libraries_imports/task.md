@@ -4,12 +4,9 @@
 Import the `random` library.
 
 ## Goal 2
-Generate a random number between 1 and 100.
+Generate a random number between 1 and 100 and print "The magic number is: " followed by that number.
 
-## Goal 3
-Print "The magic number is: " followed by that number.
-
-## Goal 4 (Bonus)
+## Goal 3 (Bonus)
 Import `datetime` and print the current year.
 *Hint: `import datetime` -> `datetime.date.today().year`*
 

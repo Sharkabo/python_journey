@@ -13,12 +13,12 @@ Use a loop (you can use `for i in range(3)` to give them 3 tries). Inside the lo
    - If yes: Print "You Won!" and calculate score (maybe?). **IMPORTANT**: Since we haven't learned `break` yet, just print "You Won!"
    - If no: Print "Wrong!".
 
-## Goal 4 (Spiral Bonus)
+## Goal 3 (Spiral Bonus)
 Create an empty list called `guesses` before the loop.
 Every time the user guesses, `append` their number to the list.
 After the game ends, print: "Your guesses were: [list]"
 
-## Goal 5 (Spiral Bonus)
+## Goal 4 (Spiral Bonus)
 Wrap all your code inside a function called `start_game()`, and then call it at the bottom.
 
 ---

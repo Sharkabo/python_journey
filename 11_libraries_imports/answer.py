@@ -3,10 +3,7 @@
 # Goal 1: Import random library
 
 
-# Goal 2: Generate random number
+# Goal 2: Generate and print random number
 
 
-# Goal 3: Print magic number
-
-
-# Goal 4 (Bonus): Import datetime and print year
+# Goal 3 (Bonus): Import datetime and print year
