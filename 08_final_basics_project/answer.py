@@ -6,7 +6,7 @@
 # Goal 2: Loop 3 times to ask for guess and check match
 
 
-# Goal 4 (Bonus): Track guesses in a list
+# Goal 3 (Bonus): Track guesses in a list
 
 
-# Goal 5 (Bonus): Wrap in start_game function
+# Goal 4 (Bonus): Wrap in start_game function

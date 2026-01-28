@@ -8,7 +8,7 @@ Create a `while` loop that runs as long as `energy` is greater than 0. Inside th
 1. Print "Energy level: " followed by the number.
 2. Decrease `energy` by 1.
 
-## Goal 4
+## Goal 3
 After the loop finishes, print "Game Over".
 
 ---
