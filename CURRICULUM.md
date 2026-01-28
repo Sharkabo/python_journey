@@ -1,6 +1,6 @@
 # Python Journey - Updated Curriculum
 
-## Complete Unit List (01-21)
+## Complete Unit List (01-21) [REORGANIZED]
 
 ### Foundation (Units 01-08)
 1. **Unit 01**: Print & Variables
@@ -10,44 +10,66 @@
 5. **Unit 05**: Lists & Containers
 6. **Unit 06**: Loops (For Loops)
 7. **Unit 07**: Functions (Reusable Code)
-8. **Unit 08**: Final Basics Project
+8. **Unit 08**: Foundation Review Project
 
-### Intermediate (Units 09-15)
-9. **Unit 09**: Dictionaries (Key-Value)
-10. **Unit 10**: While Loops & Logic
-11. **Unit 11**: Libraries & Imports
-12. **Unit 12**: Error Handling (Try/Except)
-13. **Unit 13**: File Reading
-14. **Unit 14**: File Writing
-15. **Unit 15**: Final Intermediate Project
-
-### Advanced Basics (Units 16-21) [NEW]
-16. **Unit 16**: String Methods & Formatting
+### Core Skills (Units 09-12) [REORGANIZED]
+9. **Unit 09**: String Methods & Formatting
     - `.upper()`, `.lower()`, `.strip()`, `.split()`, `.join()`
     - F-strings for modern string formatting
     
-17. **Unit 17**: Boolean Logic & Operators
+10. **Unit 10**: Boolean Logic & Operators
     - Comparison operators: `==`, `!=`, `>`, `<`, `>=`, `<=`
     - Logical operators: `and`, `or`, `not`
     
-18. **Unit 18**: Function Return Values
+11. **Unit 11**: Function Return Values
     - Understanding `return` statements
     - Using returned values in calculations
     - Multiple return paths
     
-19. **Unit 19**: Loop Control (Break & Continue)
+12. **Unit 12**: Loop Control (Break & Continue)
     - `break` - exit loops early
     - `continue` - skip to next iteration
+
+### Data Structures (Units 13-14) [REORGANIZED]
+13. **Unit 13**: Dictionaries (Key-Value)
+    - Creating and accessing dictionaries
+    - Adding and modifying key-value pairs
     
-20. **Unit 20**: Tuples & Sets
+14. **Unit 14**: Tuples & Sets
     - Tuples: immutable sequences
     - Sets: unique collections
     - Set operations
+
+### Advanced Concepts (Units 15-20) [REORGANIZED]
+15. **Unit 15**: While Loops & Logic
+    - While loop syntax
+    - Loop conditions and control
     
-21. **Unit 21**: List Comprehensions
+16. **Unit 16**: Libraries & Imports
+    - Importing standard libraries
+    - Using library functions
+    
+17. **Unit 17**: Error Handling (Try/Except)
+    - Try/except blocks
+    - Catching specific exceptions
+    
+18. **Unit 18**: File Reading
+    - Opening and reading files
+    - File handling best practices
+    
+19. **Unit 19**: File Writing
+    - Writing to files
+    - Append vs write mode
+    
+20. **Unit 20**: List Comprehensions
     - Pythonic way to create lists
     - Filtering with conditions
     - Transforming data elegantly
+
+### Final Project (Unit 21)
+21. **Unit 21**: Final Basics Project
+    - Combines all learned concepts from Units 01-21
+    - Real-world application
 
 ---
 
@@ -66,13 +88,38 @@ Your curriculum now includes all essential Python basics:
 
 ---
 
-## Learning Path Recommendation
+## Why This Order Works Better
 
-**Beginner Path**: Units 01-08 -> Units 16-17 -> Units 09-15  
-**Reason**: String methods and boolean logic are fundamental and should come early
+**Improved Learning Progression:**
 
-**Alternative Path**: Units 01-15 (original) -> Units 16-21 (reinforcement)  
-**Reason**: Follows your original spiral learning approach
+1. **Foundational Skills First** (Units 09-10)
+   - String methods and boolean logic are fundamental
+   - Used constantly in real programming
+   - Should be learned early
+
+2. **Complete Function Knowledge** (Unit 11)
+   - Functions with return values right after basic functions
+   - No gap in understanding
+
+3. **Full Loop Control** (Unit 12)
+   - Break and continue before while loops
+   - Complete understanding of loop mechanics
+
+4. **Grouped Data Structures** (Units 13-14)
+   - Dictionaries, tuples, and sets together
+   - Easier to compare and contrast
+
+5. **Advanced Topics in Sequence** (Units 15-20)
+   - While loops -> Libraries -> Error handling -> File I/O
+   - Logical progression of complexity
+
+6. **List Comprehensions Before Final Project** (Unit 20)
+   - More tools available for the final project
+   - Pythonic coding style
+
+7. **Final Project Last** (Unit 21)
+   - Uses all concepts learned
+   - Perfect capstone experience
 
 ---
 
@@ -89,4 +136,5 @@ If you want to continue beyond basics:
 ---
 
 **Created**: 2026-01-28  
-**Status**: Complete Python Basics Curriculum
+**Last Updated**: 2026-01-28 (Reorganized for optimal learning progression)  
+**Status**: Complete Python Basics Curriculum - Reorganized
