@@ -4,10 +4,7 @@
 Create a variable `energy` = 5.
 
 ## Goal 2
-Create a `while` loop that runs as long as `energy` is greater than 0.
-
-## Goal 3
-Inside the loop:
+Create a `while` loop that runs as long as `energy` is greater than 0. Inside the loop:
 1. Print "Energy level: " followed by the number.
 2. Decrease `energy` by 1.
 
