@@ -6,10 +6,7 @@ Build a simple "Guess the Number" game.
 Define a secret number variable (e.g., `secret_number = 7`).
 
 ## Goal 2
-Use a loop (you can use `for i in range(3)` to give them 3 tries).
-
-## Goal 3
-Inside the loop:
+Use a loop (you can use `for i in range(3)` to give them 3 tries). Inside the loop:
 1. Ask the user to "Guess a number:".
 2. Convert it to an integer.
 3. Check if it matches `secret_number`.

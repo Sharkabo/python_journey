@@ -6,16 +6,10 @@ Build a "Tiny Journal" app.
 Open `journal.txt` in Append mode (`"a"`).
 
 ## Goal 2
-Start a `while True` loop.
-
-## Goal 3
-Ask input: "Write entry (or type 'exit' to quit): ".
-
-## Goal 4
-Check if they typed "exit". If yes, use `break` to stop the loop.
-
-## Goal 5
-If not exit, write the entry + a newline (`\n`) to the file.
+Start a `while True` loop. Within the loop:
+1. Ask input: "Write entry (or type 'exit' to quit): ".
+2. Check if they typed "exit". If yes, use `break` to stop the loop.
+3. If not exit, write the entry + a newline (`\n`) to the file.
 *Important: Don't forget `f.write(entry + "\n")` so lines don't get stuck together!*
 
 ---
