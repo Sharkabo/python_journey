@@ -1,6 +1,6 @@
 # Task: Build a Payment System with ABC
 
-Open `my_answer.py` in this folder and complete the following objectives:
+Open `answer.py` in this folder and complete the following objectives:
 
 ## Goal 1: Create PaymentMethod ABC
 Create an abstract base class `PaymentMethod` with:

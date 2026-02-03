@@ -1,6 +1,6 @@
 # Task: Build Flexible Functions with *args and **kwargs
 
-Open `my_answer.py` in this folder and complete the following objectives:
+Open `answer.py` in this folder and complete the following objectives:
 
 ## Goal 1: Create a sum_all function
 Create a function `sum_all(*args)` that:

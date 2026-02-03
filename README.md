@@ -55,14 +55,14 @@ Each unit directory contains:
 - **concept.md** - Theory and explanations (with YouTube recommendations)
 - **task.md** - Hands-on implementation tasks
 - **drill.py** - Practice exercises for muscle memory
-- **my_answer.py** - Your solution file
+- **answer.py** - Your solution file
 
 ### Learning Method
 1. Read `concept.md` to understand the concept
 2. Watch recommended YouTube videos if needed
 3. Complete `drill.py` exercises
 4. Solve the `task.md` challenge
-5. Write your solution in `my_answer.py`
+5. Write your solution in `answer.py`
 
 ---
 

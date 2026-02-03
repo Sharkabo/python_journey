@@ -150,7 +150,7 @@ Don't skip phases. Each phase builds on the previous one.
 - Read `concept.md` (theory)
 - Complete `drill.py` (basic practice)
 - Complete task in `task.md` (implementation)
-- Write your answer in `my_answer.py`
+- Write your answer in `answer.py`
 
 ### 3. Use YouTube for Supplementary Learning
 Each `concept.md` has YouTube keyword recommendations and channels. Search for videos if text learning is difficult.

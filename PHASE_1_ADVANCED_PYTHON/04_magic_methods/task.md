@@ -1,6 +1,6 @@
 # Task: Custom Product Class with Magic Methods
 
-Open `my_answer.py` in this folder and complete the following objectives:
+Open `answer.py` in this folder and complete the following objectives:
 
 ## Goal 1: Create a Product Class
 Create a `Product` class with:

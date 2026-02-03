@@ -1,6 +1,6 @@
 # Task: Create a Book and Library System
 
-Open `my_answer.py` in this folder and complete the following objectives:
+Open `answer.py` in this folder and complete the following objectives:
 
 ## Goal 1: Create a Book Class
 Create a `Book` class with the following:

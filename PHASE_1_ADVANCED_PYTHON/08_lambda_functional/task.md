@@ -1,6 +1,6 @@
 # Task: Functional Programming Practice
 
-Open `my_answer.py` in this folder and complete the following objectives:
+Open `answer.py` in this folder and complete the following objectives:
 
 ## Goal 1: Lambda Basics
 Create lambda functions for:

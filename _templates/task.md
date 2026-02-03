@@ -1,6 +1,6 @@
 # Task Description
 
-Open `my_answer.py` in this folder and complete the following objectives:
+Open `answer.py` in this folder and complete the following objectives:
 
 ## Goal 1
 Description of the first small task.

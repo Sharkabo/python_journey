@@ -1,6 +1,6 @@
 # Task: Build a User Management System with Custom Exceptions
 
-Open `my_answer.py` in this folder and complete the following objectives:
+Open `answer.py` in this folder and complete the following objectives:
 
 ## Goal 1: Create Exception Hierarchy
 Create these custom exceptions:
