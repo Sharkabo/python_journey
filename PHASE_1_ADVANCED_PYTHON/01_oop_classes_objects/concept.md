@@ -6,11 +6,6 @@ If you find learning from text difficult, search for these keywords:
 - "Python classes and objects"
 - "Python __init__ method"
 
-Recommended Channels:
-- Corey Schafer (Python)
-- Tech With Tim (Python)
-- freeCodeCamp.org
-
 ---
 
 ## 1. What is Object-Oriented Programming?

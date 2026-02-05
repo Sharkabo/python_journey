@@ -23,7 +23,7 @@ Complete learning path from zero to Python FastAPI backend engineer, with struct
 ```
 python_journey/
 ├── PHASE_0_PYTHON_BASICS/        ✓ Completed (21 units)
-├── PHASE_1_ADVANCED_PYTHON/      ← Current (16 units)
+├── PHASE_1_ADVANCED_PYTHON/      ← Current (33 units, ~30 min each)
 ├── PHASE_2_WEB_FUNDAMENTALS/     (Future)
 ├── PHASE_3_FASTAPI_CORE/         (Future)
 ├── PHASE_4_DEVOPS_DEPLOYMENT/    (Future)
@@ -42,7 +42,7 @@ python_journey/
 This project uses a **7-phase learning system** from Python basics to production-ready FastAPI development:
 
 1. **PHASE_0**: Python Basics (21 units) - Variables, loops, functions, OOP intro
-2. **PHASE_1**: Advanced Python (16 units) - OOP, decorators, type hints, algorithms
+2. **PHASE_1**: Advanced Python (33 units, ~30 min each) - OOP, decorators, type hints, algorithms
 3. **PHASE_2**: Web Fundamentals - HTTP, SQL, databases
 4. **PHASE_3**: FastAPI Core - Routes, Pydantic, authentication, async
 5. **PHASE_4**: DevOps & Deployment - Docker, CI/CD, GCP Cloud Run
@@ -87,17 +87,17 @@ Build **6 portfolio projects** while learning:
 ## Current Progress
 
 - **PHASE_0**: Python Basics ✓ Completed (21/21 units)
-- **PHASE_1**: Advanced Python → In Progress (0/16 units)
+- **PHASE_1**: Advanced Python → In Progress (2/33 units completed)
 - **Projects Built**: 0/6
 
 ---
 
 ## Time Estimates
 
-### Learning Phases
-- **Full-time** (8 hours/day): 7-9 months
-- **Part-time** (4 hours/day): 10-12 months
-- **Casual** (2 hours/day): 15-18 months
+### Learning Phases (30-minute units)
+- **Full-time** (8 units/day): 4-5 days per phase on average
+- **Part-time** (4 units/day): 8-10 days per phase on average
+- **Casual** (2 units/day): 16-20 days per phase on average
 
 ### Building Projects
 - 4-6 months alongside learning
@@ -251,6 +251,7 @@ Curriculum designed based on:
 
 **Ready to start?** Open [PHASE_GUIDE.md](PHASE_GUIDE.md) and begin your journey to becoming a FastAPI backend engineer!
 
-**Last Updated**: 2026-01-31
-**Current Phase**: PHASE_1 - Advanced Python (16 units)
+**Last Updated**: 2026-02-05 (restructured into 30-minute units)
+**Current Phase**: PHASE_1 - Advanced Python (33 units)
+**Units Completed**: 2/33 in Phase 1
 **Projects Completed**: 0/6

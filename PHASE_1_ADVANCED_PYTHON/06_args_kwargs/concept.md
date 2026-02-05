@@ -6,11 +6,6 @@ If you find learning from text difficult, search for these keywords:
 - "Python *args **kwargs explained"
 - "Python function arguments"
 
-Recommended Channels:
-- Corey Schafer (Python)
-- Tech With Tim (Python)
-- Real Python
-
 ---
 
 ## 1. What are *args and **kwargs?

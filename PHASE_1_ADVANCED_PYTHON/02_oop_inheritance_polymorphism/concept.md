@@ -8,12 +8,6 @@ If you find learning from text difficult, search for these keywords:
 - "Python 繼承教學"
 - "Python 多型概念"
 
-Recommended Channels:
-- Corey Schafer (Python)
-- Tech With Tim (Python)
-- freeCodeCamp.org
-- 彭彭的課程 (Chinese)
-
 ---
 
 ## 1. What is Inheritance?

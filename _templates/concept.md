@@ -1,16 +1,13 @@
 # Unit X: [Topic Name]
 
-## YouTube 推薦
-如果從文字學習有困難，可以搜尋以下關鍵字：
-- "[主題關鍵字1]"
-- "[主題關鍵字2]"
-
-推薦頻道：
-- Corey Schafer (Python)
-- Tech With Tim (Python)
-- freeCodeCamp.org
+```markdown
+## YouTube Recommendations
+If you find it difficult to learn from text, you can search for the following keywords:
+- "[Topic Keyword 1]"
+- "[Topic Keyword 2]"
 
 ---
+```
 
 ## 1. Concept Name
 Brief explanation of the concept. Keep it simple and focused.

@@ -6,13 +6,6 @@ If you find learning from text difficult, search for these keywords:
 - "Python dunder methods"
 - "Python __str__ __repr__"
 
-Recommended Channels:
-- Corey Schafer (Python)
-- Ar
-
-pen Roelofs (Python)
-- mCoding (Advanced Python)
-
 ---
 
 ## 1. What are Magic Methods?

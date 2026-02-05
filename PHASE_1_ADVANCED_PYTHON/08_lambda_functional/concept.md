@@ -6,11 +6,6 @@ If you find learning from text difficult, search for these keywords:
 - "Python map filter reduce"
 - "Python functional programming"
 
-Recommended Channels:
-- Corey Schafer (Python)
-- Tech With Tim (Python)
-- mCoding (Advanced Python)
-
 ---
 
 ## 1. What is a Lambda Function?
