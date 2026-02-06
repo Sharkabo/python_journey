@@ -16,20 +16,14 @@ Add methods to safely interact with the private balance:
 - `get_balance()` - returns the current balance
 - `get_account_info()` - returns formatted account information
 
-## Goal 3: Demonstrate Encapsulation
-Show that:
-- Public attributes can be accessed directly
-- Private attributes cannot be accessed from outside the class
-- Name mangling (`__attribute`) truly hides attributes
-
 ---
-
 **Expected Output:**
+When you run the code, the terminal should show:
 ```text
 Account holder: Alice Johnson
+Account number: 123-456-789
 Initial balance: $1000.00
 After deposit: $1500.00
 After withdrawal: $1200.00
-Attempting to access private balance...
-AttributeError: 'BankAccount' object has no attribute '__balance'
+Final balance: $1200.00
 ```
